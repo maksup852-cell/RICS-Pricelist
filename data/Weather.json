@@ -8,7 +8,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Fog": {
@@ -20,7 +20,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Rain": {
@@ -32,7 +32,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "DryThunderstorm": {
@@ -44,7 +44,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "RainyThunderstorm": {
@@ -56,7 +56,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FoggyRain": {
@@ -68,7 +68,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "SnowHard": {
@@ -80,7 +80,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "SnowGentle": {
@@ -92,7 +92,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "BloodRain": {
@@ -104,7 +104,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Anomaly",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Windy": {
@@ -116,7 +116,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Odyssey",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "ToxRain": {
@@ -128,7 +128,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Odyssey",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Sandstorm": {
@@ -140,7 +140,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Odyssey",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "BlindFog": {
@@ -152,7 +152,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Odyssey",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Overcast": {
@@ -164,7 +164,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Odyssey",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Blizzard": {
@@ -176,7 +176,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Odyssey",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "TorrentialRain": {
@@ -188,7 +188,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Odyssey",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   }
 }
