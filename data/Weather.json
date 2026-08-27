@@ -198,7 +198,7 @@
     "BaseCost": 150,
     "KarmaType": "Neutral",
     "EventCap": 3,
-    "Enabled": false,
+    "Enabled": true,
     "ModSource": "Vanilla Landmarks Expanded",
     "modactive": true,
     "Version": 1
@@ -210,7 +210,7 @@
     "BaseCost": 300,
     "KarmaType": "Bad",
     "EventCap": 3,
-    "Enabled": false,
+    "Enabled": true,
     "ModSource": "Vanilla Landmarks Expanded",
     "modactive": true,
     "Version": 1
