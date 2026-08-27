@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2026-08-24T13:15:57.7059379Z",
-  "totalActiveMods": 54,
+  "exportedAt": "2026-08-27T14:53:38.9051887Z",
+  "totalActiveMods": 62,
   "mods": [
     {
       "author": "Captolamia",
@@ -15,6 +15,18 @@
       "version": null
     },
     {
+      "author": "seobongzu",
+      "name": "[sbz] Neat Storage",
+      "steamId": "3416243474",
+      "version": null
+    },
+    {
+      "author": "Araru",
+      "name": "[sbz] Neat Storage rus",
+      "steamId": "3546080754",
+      "version": null
+    },
+    {
       "author": "Andreas Pardeike",
       "name": "Achtung!",
       "steamId": "730936602",
@@ -24,6 +36,12 @@
       "author": "pashka",
       "name": "Achtung! Russian Language",
       "steamId": "2781519987",
+      "version": null
+    },
+    {
+      "author": "Soul, Phaneron, Bradson",
+      "name": "Adaptive Storage Framework",
+      "steamId": "3033901359",
       "version": null
     },
     {
@@ -60,7 +78,7 @@
       "author": "Andreas Pardeike",
       "name": "Camera+",
       "steamId": "867467808",
-      "version": "3.4.5.0"
+      "version": "3.4.6.0"
     },
     {
       "author": "PeteTimesSix",
@@ -132,6 +150,12 @@
       "author": "Matvey24",
       "name": "FPS Stabilizer",
       "steamId": "3318922522",
+      "version": null
+    },
+    {
+      "author": "ZerusYTI",
+      "name": "GachiRim: Core",
+      "steamId": "3449206603",
       "version": null
     },
     {
@@ -231,6 +255,12 @@
       "version": "1.0.0.5"
     },
     {
+      "author": "mastertea",
+      "name": "RandomPlus",
+      "steamId": "1434137894",
+      "version": null
+    },
+    {
       "author": "Jaxe",
       "name": "RimHUD",
       "steamId": "1508850027",
@@ -289,6 +319,24 @@
       "name": "Vanilla Expanded Framework Russian Language Pack",
       "steamId": "2507140407",
       "version": "16.03"
+    },
+    {
+      "author": "ComradeAlexey",
+      "name": "Vanilla Gachi Animals Expanded",
+      "steamId": "3384370379",
+      "version": null
+    },
+    {
+      "author": "Oskar Potocki,  Sarg Bjornson",
+      "name": "Vanilla Landmarks Expanded",
+      "steamId": "3656316229",
+      "version": null
+    },
+    {
+      "author": "Mewn Goddess",
+      "name": "Vanilla Landmarks Expanded Russian Language Pack",
+      "steamId": "3668789586",
+      "version": "16.01"
     },
     {
       "author": "Oskar Potocki,  Kikohi",

@@ -190,5 +190,29 @@
     "ModSource": "Odyssey",
     "modactive": true,
     "Version": 1
+  },
+  "VEE_FertileRains": {
+    "DefName": "VEE_FertileRains",
+    "Label": "плодородный дождь",
+    "Description": "Эту область накрыли дожди, содержащие много питательных веществ, что временно усиливает рост растений.",
+    "BaseCost": 150,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": false,
+    "ModSource": "Vanilla Landmarks Expanded",
+    "modactive": true,
+    "Version": 1
+  },
+  "VEE_DustStorm": {
+    "DefName": "VEE_DustStorm",
+    "Label": "пыльная буря",
+    "Description": "Эту область накрыла плотная пылевая завеса, ограничивая видимость, затрудняя передвижение и разъедая всё на своём пути.",
+    "BaseCost": 300,
+    "KarmaType": "Bad",
+    "EventCap": 3,
+    "Enabled": false,
+    "ModSource": "Vanilla Landmarks Expanded",
+    "modactive": true,
+    "Version": 1
   }
 }
