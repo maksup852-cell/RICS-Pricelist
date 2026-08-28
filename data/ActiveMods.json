@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2026-08-28T12:49:01.4845853Z",
-  "totalActiveMods": 60,
+  "exportedAt": "2026-08-28T14:10:24.6658768Z",
+  "totalActiveMods": 59,
   "mods": [
     {
       "author": "Captolamia",
@@ -9,21 +9,9 @@
       "version": null
     },
     {
-      "author": "AlexDrake",
-      "name": "[CAP] Rimworld Interactive Chat Service - RU (РУ перевод)",
-      "steamId": "3666703929",
-      "version": null
-    },
-    {
       "author": "seobongzu",
       "name": "[sbz] Neat Storage",
       "steamId": "3416243474",
-      "version": null
-    },
-    {
-      "author": "Araru",
-      "name": "[sbz] Neat Storage rus",
-      "steamId": "3546080754",
       "version": null
     },
     {
@@ -79,6 +67,12 @@
       "name": "Camera+",
       "steamId": "867467808",
       "version": "3.4.7.0"
+    },
+    {
+      "author": "void",
+      "name": "Character Editor",
+      "steamId": "1874644848",
+      "version": "1.6.1"
     },
     {
       "author": "PeteTimesSix",

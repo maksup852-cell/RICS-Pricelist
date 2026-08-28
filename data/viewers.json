@@ -1,40 +1,31 @@
 {
-  "total": 4,
+  "total": 3,
   "viewers": [
     {
       "username": "nightbot",
       "karma": 100.0,
-      "coins": 566,
+      "coins": 912,
       "isBanned": false,
       "platformIds": {
         "twitch": "19264788"
       }
     },
     {
-      "username": "themaksbro",
-      "karma": 100.2,
-      "coins": 370,
-      "isBanned": false,
-      "platformIds": {
-        "twitch": "742956520"
-      }
-    },
-    {
-      "username": "chudikchudikov",
-      "karma": 100.2,
-      "coins": 320,
-      "isBanned": false,
-      "platformIds": {
-        "twitch": "1531348771"
-      }
-    },
-    {
       "username": "1maksup1",
       "karma": 100.2,
-      "coins": 300,
+      "coins": 280,
       "isBanned": false,
       "platformIds": {
         "twitch": "1530452748"
+      }
+    },
+    {
+      "username": "themaksbro",
+      "karma": 100.2,
+      "coins": 280,
+      "isBanned": false,
+      "platformIds": {
+        "twitch": "742956520"
       }
     }
   ]
