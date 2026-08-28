@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2026-08-27T15:05:19.1976050Z",
-  "totalActiveMods": 62,
+  "exportedAt": "2026-08-28T12:49:01.4845853Z",
+  "totalActiveMods": 60,
   "mods": [
     {
       "author": "Captolamia",
@@ -78,7 +78,7 @@
       "author": "Andreas Pardeike",
       "name": "Camera+",
       "steamId": "867467808",
-      "version": "3.4.6.0"
+      "version": "3.4.7.0"
     },
     {
       "author": "PeteTimesSix",
@@ -150,12 +150,6 @@
       "author": "Matvey24",
       "name": "FPS Stabilizer",
       "steamId": "3318922522",
-      "version": null
-    },
-    {
-      "author": "ZerusYTI",
-      "name": "GachiRim: Core",
-      "steamId": "3449206603",
       "version": null
     },
     {
@@ -319,12 +313,6 @@
       "name": "Vanilla Expanded Framework Russian Language Pack",
       "steamId": "2507140407",
       "version": "16.03"
-    },
-    {
-      "author": "ComradeAlexey",
-      "name": "Vanilla Gachi Animals Expanded",
-      "steamId": "3384370379",
-      "version": null
     },
     {
       "author": "Oskar Potocki,  Sarg Bjornson",

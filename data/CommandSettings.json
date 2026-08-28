@@ -957,7 +957,7 @@
     "DefaultLootBoxSize": 1,
     "MinLootBoxSize": 1,
     "MaxLootBoxSize": 10,
-    "CustomData": "{\"enableBody\":\"true\",\"enableHealth\":\"true\",\"enableImplants\":\"true\",\"enableGear\":\"true\",\"enableWeapon\":\"true\",\"enableKills\":\"true\",\"enableNeeds\":\"true\",\"enableRelations\":\"true\",\"enableSkills\":\"true\",\"enableStats\":\"true\",\"enableStory\":\"true\",\"enableTraits\":\"true\",\"enableWork\":\"true\",\"enableJob\":\"true\",\"enablePsycasts\":\"true\",\"enableMechs\":\"true\",\"enableGenes\":\"true\"}"
+    "CustomData": "{\"enableBody\":\"true\",\"enableHealth\":\"true\",\"enableImplants\":\"true\",\"enableGear\":\"true\",\"enableWeapon\":\"true\",\"enableKills\":\"true\",\"enableNeeds\":\"true\",\"enableRelations\":\"true\",\"enableSkills\":\"true\",\"enableStats\":\"true\",\"enableStory\":\"true\",\"enableTraits\":\"true\",\"enableWork\":\"true\",\"enableJob\":\"true\",\"enablePsycasts\":\"true\",\"enableMechs\":\"true\",\"enableGenes\":\"true\",\"enableOwned\":\"true\",\"enableDisown\":\"true\"}"
   },
   "leave": {
     "Enabled": true,

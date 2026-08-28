@@ -26,10 +26,7 @@
       "Waster": 20.0,
       "Yttakin": 20.0,
       "Highmate": 20.0,
-      "Starjack": 20.0,
-      "CatGirlXenotypeA": 20.0,
-      "GachiBossXenotype": 20.0,
-      "Homelander_Xenotype": 20.0
+      "Starjack": 20.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -43,10 +40,7 @@
       "Waster": true,
       "Yttakin": true,
       "Highmate": true,
-      "Starjack": true,
-      "CatGirlXenotypeA": true,
-      "GachiBossXenotype": true,
-      "Homelander_Xenotype": true
+      "Starjack": true
     }
   }
 }
